@@ -1,6 +1,4 @@
-Oke bro, ini dia versi bahasa Inggris-nya, lengkap dan clean buat langsung dipakai di `README.md`:
 
----
 
 ```markdown
 # ArashTool
@@ -16,25 +14,6 @@ Oke bro, ini dia versi bahasa Inggris-nya, lengkap dan clean buat langsung dipak
 - ⚙️ **Optimized Performance**: Efficient data updates using `psutil`.
 - 🧩 **Modular Codebase**: Clean architecture with separated concerns for UI, logic, and utilities.
 - 🖥️ **Built with**: `tkinter`, `psutil`, `matplotlib`, `ttk`
-
----
-
-## 📂 Project Structure
-
-```
-ArashTool/
-├── UI/
-│   └── widgets.py          # Main UI component (ArashApp)
-├── Utils/
-│   ├── chart_utils.py      # Utilities for updating charts
-|   ├── clock.py            # Utilities
-│   └── misc.py             # Helper functions
-├── Update/
-│   └── updater.py          # Data fetching from system
-├── app_config.py           # ttk style configuration
-├── main.py                 # Entry point of the application
-└── README.md               # You’re reading it!
-```
 
 ---
 
