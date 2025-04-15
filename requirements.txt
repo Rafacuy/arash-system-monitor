@@ -1,0 +1,12 @@
+psutil
+
+matplotlib
+
+pygame
+
+pytz
+
+numpy
+
+pillow
+
