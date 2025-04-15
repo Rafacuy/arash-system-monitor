@@ -1,9 +1,9 @@
 
 
 ```markdown
-# ArashTool
+# ASM (Arash - System - Monitor)
 
-🛠️ **ArashTool** is a GUI-based system monitoring tool that provides real-time insights into your CPU, RAM, Disk, and Network usage. Designed for developers, power users, and anyone who wants to monitor their system performance with a sleek and responsive interface.
+🛠️ **ASM** is a GUI-based system monitoring tool that provides real-time insights into your CPU, RAM, Disk, and Network usage. Designed for developers, power users, and anyone who wants to monitor their system performance with a sleek and responsive interface.
 
 ---
 
