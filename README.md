@@ -1,6 +1,4 @@
 
-
-```markdown
 # ASM (Arash - System - Monitor)
 
 🛠️ **ASM** is a GUI-based system monitoring tool that provides real-time insights into your CPU, RAM, Disk, and Network usage. Designed for developers, power users, and anyone who wants to monitor their system performance with a sleek and responsive interface.
@@ -21,8 +19,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ArashTool.git
-   cd ArashTool
+   git clone https://github.com/Rafacuy/arash-system-monitor
+   cd arash-system-monitor
    ```
 
 2. **Install required packages:**
